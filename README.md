@@ -1,16 +1,16 @@
 # Auth Dashboard
 
-A [Next.js](https://nextjs.org) starter template ready for [Supabase](https://supabase.com) integration to demonstrate authentication, CRUD operations, and image uploads.
+A [Next.js](https://nextjs.org) starter template ready for [Convex](https://convex.dev) integration to demonstrate authentication, CRUD operations, and image uploads.
 
 ## About This Project
 
 This is a clean Next.js 16 starter project built with TypeScript and Tailwind CSS v4, prepared for integrating:
 
-- **Supabase Authentication** - User signup, login, and session management
-- **CRUD Operations** - Create, read, update, and delete data with Supabase
-- **Image Uploads** - Handle file uploads using Supabase Storage
+- **Convex Authentication** - User signup, login, and session management
+- **CRUD Operations** - Create, read, update, and delete data with Convex
+- **Image Uploads** - Handle file uploads using Convex Storage
 
-> **Note:** Supabase integration is not yet implemented. This is a starter template ready for development.
+> **Note:** Convex integration is not yet implemented. This is a starter template ready for development.
 
 ## Getting Started
 
@@ -49,10 +49,10 @@ npm run dev
 
 ## Planned Features
 
-- User authentication with Supabase (signup, login, logout)
+- User authentication with Convex (signup, login, logout)
 - Protected routes and middleware
 - CRUD operations with real-time updates
-- Image upload and management with Supabase Storage
+- Image upload and management with Convex Storage
 - User dashboard
 
 ---
